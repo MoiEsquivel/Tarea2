@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Asus\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Asus\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Asus\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Asus\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Asus\Desktop\Progra\Nueva carpeta\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
